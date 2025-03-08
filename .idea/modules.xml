@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai1-Decorator/Bai1-Decorator.iml" filepath="$PROJECT_DIR$/Bai1-Decorator/Bai1-Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1-NoDesignPT/Bai1-NoDesignPT.iml" filepath="$PROJECT_DIR$/Bai1-NoDesignPT/Bai1-NoDesignPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1-Stage/Bai1-Stage.iml" filepath="$PROJECT_DIR$/Bai1-Stage/Bai1-Stage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1-Strategy/Bai1-Strategy.iml" filepath="$PROJECT_DIR$/Bai1-Strategy/Bai1-Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/Design-Pattern.iml" />
+    </modules>
+  </component>
+</project>
